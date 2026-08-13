@@ -9,7 +9,7 @@ HippoCAD is engineered specifically for detailed builds, precision layout design
 
 ## Project Links & Hubs
 
-*   **Documentation Site:** [occiinnovations.github.io/HippoCAD-Documentation/](https://occiinnovations.github.io/HippoCAD-Documentation/)
+*   **NOT DONE YET - Documentation Site:** [occiinnovations.github.io/HippoCAD-Documentation/](https://occiinnovations.github.io/HippoCAD-Documentation/)
 *   **Official Video Feed:** [YouTube @occiinnovations](https://www.youtube.com/@occiinnovations)
 *   **Download & Deploy:** [Modrinth](https://modrinth.com/modpack/hippo) | [CurseForge](https://www.curseforge.com/minecraft/modpacks/hippo-cad-simplified)
 *   **Community Matrix:** [Discord Server](https://discord.gg/k3gv2bZUt)
