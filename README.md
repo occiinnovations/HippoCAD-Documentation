@@ -1,7 +1,5 @@
 <img width="3440" height="1440" alt="2026-02-17_04 38 22" src="https://github.com/user-attachments/assets/f356f8d5-681f-43eb-b120-a653bdfeed23" />
-
-
-# HippoCAD
+____
 
 An architectural design and structural drafting modpack for Minecraft 1.20.1 (Forge). 
 
