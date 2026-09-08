@@ -5,7 +5,6 @@
 HippoCAD is a large, specialized Minecraft 1.20.1 (Forge) modpack built for high-detail building, city layouts, and machine automation. It combines advanced building tools with a massive library of decorative blocks, realistic vehicles, and custom physics to let you build complex projects without standard block limitations.
 
 ## Project Links & Community
-* **Documentation Site:** [occiinnovations.github.io/HippoCAD-Documentation/](https://occiinnovations.github.io/HippoCAD-Documentation/)
 * **Official Video Feed:** [YouTube @occiinnovations](https://www.youtube.com/@occiinnovations)
 * **Download Links:** [Modrinth](https://modrinth.com/modpack/hippo) | [CurseForge](https://www.curseforge.com/minecraft/modpacks/hippo-cad-simplified)
 * **Join the Community:** [Discord Server](https://discord.gg/k3gv2bZUt)
