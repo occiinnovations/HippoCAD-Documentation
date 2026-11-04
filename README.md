@@ -1,8 +1,6 @@
-# HippoCAD
+![Logo of Hippo](https://cdn.modrinth.com/data/cached_images/632cd999522fa9651bae30aa72f9eb59fb35740c_0.webp)
 
-![Hippo Logo](https://github.com/user-attachments/assets/f356f8d5-681f-43eb-b120-a653bdfeed23)
-
-**HippoCAD - Build Everything**
+# **HippoCAD - Build Everything**
 
 Why use Rhino when you have HippoCAD?
 
