@@ -2,6 +2,9 @@
 
 # **HippoCAD - Build Everything**
 
+**Modrinth**(<https://modrinth.com/modpack/hippo>) 
+**Curseforge**(<https://www.curseforge.com/minecraft/modpacks/hippo-cad-simplified>) 
+
 Why use Rhino when you have HippoCAD?
 
 HippoCAD is THE modpack for detailed builds and architecture. Whether you're designing a city, a single structure, a living room, or a fully automated factory, this pack combines the top builder mods that Forge has to offer, and it hands it all to you in one pack.
